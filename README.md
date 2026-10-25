@@ -16,9 +16,9 @@
 
 ## 🚀 Projects
 
-**[Blood Test Tracker](https://github.com/nataliarogoza/BloodTestTracker)** 📊 ![Status](https://img.shields.io/badge/status-migrating%20to%20web%20app-orange)
+**[Blood Test Tracker](https://github.com/nataliarogoza/BloodTestTracker)** 📊 
 
-Linux desktop app to store and visualize blood test results, now being rebuilt as a web app. *Python, PostgreSQL, PyQt*
+Private local web app to store and visualize blood test results (previously Linux desktop app). *Python, FastAPI, SQLite*
 
 **[Research Assistant](https://github.com/nataliarogoza/research-assistant)** 🧠
 
